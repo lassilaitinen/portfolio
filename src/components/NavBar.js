@@ -6,9 +6,9 @@ function NavBar() {
     return (
       <div className="Navigation_bar">
         <ul>
-            <li><Link to="/">Home</Link></li>
-            <li><Link to="/projects">Projects</Link></li>
-            <li><Link to="/contact">Contact</Link></li>
+            <li><Link to="portfolio/">Home</Link></li>
+            <li><Link to="portfolio/projects">Projects</Link></li>
+            <li><Link to="portfolio/contact">Contact</Link></li>
         </ul>
       </div>
     );
