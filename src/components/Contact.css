@@ -1,0 +1,8 @@
+#contact-container {
+    margin: 0 auto;
+    padding: 2em 5%;
+    width: 75%;
+    background-color: #1c1c1c;
+    color:white;
+    min-height: 85vh;
+}
